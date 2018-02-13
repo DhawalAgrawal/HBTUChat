@@ -1,0 +1,549 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family: 'Hammersmith One', sans-serif;
+	
+	
+
+}
+
+#header1 
+{
+	width:100%;
+	float:left;
+		color:white;
+		background-color:#56B178;
+		
+	
+
+}
+#header2
+{
+	width:100%;
+	background-color: #111819;
+	float:left;
+	color:white;
+}
+
+#header2 h2
+{
+	padding:2.0%;
+}
+#header2 a{
+	color:white;
+}
+
+
+#header1 li ,a{
+display:inline;
+color:#328958;
+font-size:20px;
+		text-decoration:none;
+			padding:.9%;
+
+
+}
+#header1{
+	
+	width:100%;
+	float:left;
+	
+}
+#notifications li,a{
+	
+	color:#328958;
+}
+
+#notifications li,a:hover {
+	
+	color:white;
+	padding:1%;
+	text-decoration:none;
+	}
+
+#notifications{
+padding-top:2.0%;
+padding-left:0.8%;
+float:left;
+width:50%;
+}
+
+
+#logoutdiv {
+    margin-top: 1.3%;
+    margin-left: 13%;
+    float: left;
+}
+#logoutdiv input[type='submit']{
+padding:12%;
+border-radius:3%;
+margin:5%;
+border:1px solid #56B178;
+
+}
+#logoutdiv input[type='submit']:hover{
+background-color:#8395f7;
+}
+
+#logo{
+	width:20%;
+	float:left;
+	padding:1.7%;
+	
+	
+	
+}
+
+.utilities{
+	
+	width:20%;
+	float:left;
+		
+
+	
+}
+.toputi{
+	
+		max-height:50%;
+
+	
+}
+
+.feed{
+	
+	width:50%;
+	float:left;
+	border-left:1px solid #D3D3D3;
+
+
+
+}
+
+
+.chat
+{
+	width:29.8%;
+	float:right;	
+
+}
+
+#profileinfo {
+    margin-left: 8%;
+    margin-top: 4%;
+    margin-right: 2%;
+    width: 45%;
+    float: left;
+border-right:1px solid #d3d3d3;
+}
+#profileinfo i {
+    font-size: 13px;
+    margin-left: 1%;
+}
+
+#addfrnd button{
+width:70%;
+height:5%;
+color:white;
+background-color:#6375D7;
+border:1px solid #6375D7;
+
+
+
+}
+#msg button{
+margin-top:2%;
+width:70%;
+height:5%;
+color:white;
+background-color:#6375D7;
+border:1px solid #6375D7;
+
+
+}
+
+#intro{
+width:39%;
+float:right;
+margin-right:3%;
+margin-top:4%;
+}
+
+#mainpicture img{
+	width:55%;
+height:200px;
+    border: 1px solid white;
+	margin-bottom:10%;
+		margin-top:10%;
+       position:relative;
+
+	border-radius:50%;
+}
+
+#boxbtn {
+    position: absolute;
+    top: 42%;
+    left: 6.5%;
+    width: 7%;
+	color:blue;
+	    opacity: 0;
+
+}
+#boxbtn:hover {
+    position: absolute;
+    top: 42%;
+    left: 6.5%;
+    width: 7%;
+	color:RED;
+	    opacity: 1;
+
+}
+
+#info{
+	border-bottom:1px solid #D3D3D3;
+    
+	
+}
+
+#utimain {
+padding-top:5%;
+padding-left:13%;
+}
+
+#untimain ul,li,a:hover {
+	 list-style-type: none;
+	 	padding:2%;
+		color:black;
+
+
+	
+}
+
+#untimain ul,li,a {
+	color:black;
+}
+#utimain i{
+	padding-right:5px;
+}
+
+.sexy_line{ 
+margin-top:2.5%;
+    display:block;
+    border:none;
+    color:white;
+    height:1px;
+    background:black;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#000), to(#fff));
+}
+#infotop{
+	
+	float:left;
+	width:100%;
+	padding-top:3%;
+	padding-bottom:0px;
+	margin-bottom:3%;
+}
+#infotop li,a{
+	display:inline;
+}
+
+#feedtitle{
+float:left;
+width:97%;
+margin-left:1%;	
+ background: linear-gradient(-90deg, #D0CFCB, white);
+ padding-top:1.5%;
+  padding-bottom:1.5%;
+  padding-left:2%;
+  }
+#posttext{
+margin-top:1%;
+padding-top:2%;
+width: 86%;
+float:left;
+margin-bottom:2%
+	
+	}
+	
+
+#postpicimg {
+margin-top:6%;
+margin-left:2%;
+width:35px; 
+height:35px; 
+float:left;  
+background-size:cover; 
+background-repeat:no-repeat;
+border-radius:50%;
+
+}	
+#piccontainer{
+	height:auto;
+	width:10%;
+	float:left;
+margin-left:4%;
+margin-top:3%;
+
+padding-right:0px;
+}
+#posttext a{
+margin-left:0px;
+padding-left:0px;
+color:Blue;
+
+}
+.searchfriends{
+	
+width:100%;
+float:left;
+height:6%;
+		background-color:#6375D7;
+
+	
+}
+#searchbox
+{
+	
+width:90%;
+margin-left:auto;
+margin-top:1.4%;
+
+}
+
+.searchfriends form input[type=text] {
+    width:80%;
+	height:70%;
+	border-radius:20px;
+	background-color:white;
+	border:1px solid white;
+	padding-left:10px;
+	padding-right:25px;
+	background-image: url(../chatty_images/searchicon.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	color:green;
+
+ }
+ 
+ 
+ .fphoto{
+	 width:15%;
+	 height:10%;
+	 float:left;
+	 margin:2%;
+	 background-size:cover;
+	 background-repeat:no-repeat;
+	 border-radius:50%;
+	 
+	 	 
+ }
+ #friendview{
+	width:100%;
+	float:left;	 
+	background-color:#6C7EE0;
+
+	}
+ #chatbox{
+	 
+	 width:100%;
+	 float:left;
+	 
+	 
+ }
+ #namebar{
+	 
+	 background-color:#323848;
+	 width:66.5%;
+	 color: white;
+     text-align: left;
+	 padding-top:1%;
+	 padding-bottom:1%;
+	 padding-left:3%;
+	 margin-left:auto;
+	 margin-right:auto;
+	 margin-top:4%;
+	 
+ }
+#msgview{
+	 
+	 width:69%;
+	 margin-left:auto;
+	 margin-right:auto;
+	 background-color:white;
+	 height:40%;
+	 border-left:1px solid #d3d3d3;
+	 border-right:1px solid #d3d3d3;
+
+	 
+ }
+
+#typearea form input[type=text] {
+ 
+    
+ 	width:100%;
+	border-width:1px;
+	border-top-color:d3d3d3;
+	border-bottom-color:d3d3d3;
+	 border-left:1px solid #d3d3d3;
+	 border-right:1px solid #d3d3d3;
+	 height:5%;
+	 font-size:19px;
+	 	padding-left:2%;
+
+
+
+ 
+}
+#typearea{
+	
+	width:69.5%;
+    margin-left:auto;
+	margin-right:auto;
+	
+	
+}
+
+.topbar{
+	width:95.5%;
+	float:left;
+	margin-left:5%;
+	height:4%;
+	margin-top:4%
+}
+
+.feedpost{
+	
+	width:95.5%;
+	float:left;
+	margin-left:5%;
+	height:10%;
+	
+}
+.feedpost textarea{
+	
+	width:99%;
+	height:70%;
+	padding-top:1%;
+		padding-left:1%;
+
+	
+}
+
+.bottombar input[type=submit]{
+	width:50%;
+	height:3%;
+		
+}
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modaldp-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modaldp-content-cover {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+#modaldpcover {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+.close1 {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close1:hover,
+.close1:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#boxbtncover{
+position:absolute;
+top:43%;
+width:20%;
+margin-left:13%;
+opacity:0;
+
+}
+#boxbtncover:hover{
+position:absolute;
+top:43%;
+width:20%;
+margin-left:13%;
+opacity:1;
+}
+
+.frdp img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    float:left;
+}
+
+#accset{
+margin-left:20%;
+margin-top:4%;
+    float: left;
+
+}
+#frtxt {
+    float: left;
+    width: 75%;
+    height: 10%;
+    margin-left: 9%;
+    margin-top: 2%;
+}
+.frdp{
+width:13%;
+float:left;
+height:11%;
+
+}

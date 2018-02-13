@@ -1,0 +1,241 @@
+body
+{
+	margin-top:0px;
+	background-color:#e3e3e3;
+ margin:auto;
+	width:85%;
+	min-width:600px;
+	
+
+}
+.wrap li , ul
+{
+	display:inline;
+		float:right;
+		padding-left:0px;
+font-family: 'Hammersmith One', sans-serif;
+		margin-top:13px;
+		padding-right:10px;	
+margin-right:20px;		
+}
+a 
+{
+			text-decoration:none;
+            color:black;
+            		font-family:sans-serif;
+			
+}
+
+.wrap h1
+{  
+	float:left;
+	margin-top:16px;
+	margin-left:65px;
+font-family: 'Hammersmith One', sans-serif;
+
+}
+.wrap{
+	width:100%;
+	margin:auto;
+	float:left;
+	color:#313131;
+	background-color:#FFFFFF;
+	border: 1px solid black;
+
+	 
+
+	}
+	
+	.wrap a 
+	{
+		font-family: 'Hammersmith One', sans-serif;
+
+	}
+	
+.mainbody
+{  
+width:100%;
+float:left;
+padding-top:auto;
+margin-left:auto;
+margin-right:auto;
+	background-color:#484848;
+	padding-bottom:10px;
+	border: 1px solid black;
+
+	
+
+}
+.mainbody h1
+{   margin:auto;
+	text-align:center;
+	color:white;
+	width:35%;
+font-family: 'Hammersmith One', sans-serif;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.mainbody p
+{margin:auto;
+	text-align:center;
+	color:white;
+	width:38%;
+	font-family:sans-serif;
+
+}
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid gray ;
+    border-radius:20px;
+font-family: 'Hammersmith One', sans-serif;
+	font-size:30px;
+	    padding: 15px 32px;
+		margin-top:4px;
+
+
+}
+#btnz
+{padding-top:10px;
+	margin:auto;
+	width:100%;
+	padding-top:25px;
+	padding-bottom:25px;
+	
+	
+}
+
+.info-inner{
+	width:25%;
+	float: left;
+	background-color:#eeeeee;
+	font-family:sans-serif;
+	border: 1px solid black;
+
+
+}
+
+.info-inner h3{
+text-align:center;	
+	font-family:sans-serif;
+	 color:3498db;
+
+}
+
+.info-inner i
+{
+    margin-top:15px;
+	padding-top:25PX;
+    font-size:500%;
+	border-radius:50%;
+	border-width:2px;
+	background-color:3498db;
+	width: 130px;
+   height: 100px;
+
+}
+.info-inner p{
+	margin-left:6px;
+	text-align:center;
+	margin-right:6px;
+}
+
+.intro
+{
+	color:#e1e1e1;
+	width:90%;
+	margin:auto;
+}
+.infinner
+{
+	width:80%;
+	margin:auto;
+	background-color:#eeeeee;
+}
+
+.wrapper2
+{
+	width:100%;
+	margin:auto;
+		background-color:#eeeeee;
+		float:left;
+}
+
+.copyright
+{
+	width:100%;
+	float:left;
+	margin-left:20px;
+	font-size:20px;
+	padding-top:10px;
+	padding-bottom:5px;
+	border: 1px solid black;
+
+}
+
+.loginform
+{ width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#FFFFFF;
+	border:2px solid white;
+	border-radius:5px;
+	margin-bottom:30px;
+	padding:15px;
+	border: 1px solid black;
+
+}
+.belowwrap
+{    padding-top:80px;
+	width:100%;
+	float:left;
+	margin:auto;
+	background-color:#484848;
+	border: 1px solid black;
+
+}
+form
+{
+	font-size:20px;
+	font-family: 'Hammersmith One', sans-serif;
+
+}
+
+input[type=text] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	 border: 2px solid red;
+    border-radius: 4px;
+	margin-top:1px;
+}
+input[type=password] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	 border: 2px solid red;
+    border-radius: 4px;
+	margin-top:1px;
+}
+input[type=submit] {
+	width:70%;
+	height:35px;
+	 background-color: 4CAF50;
+    color: black;
+    border: 4px solid #4CAF50; /* Green */
+	margin-left:11%;
+	margin-top:5px;
+	color:white;
+		font-family: 'Hammersmith One', sans-serif;
+		border-radius:4px;
+}
+
+.copyrightsu
+{
+	border:1px solid black ;
+	padding-bottom:3px;
+		font-family: 'Hammersmith One', sans-serif;
+		font-size:19px;
+}
