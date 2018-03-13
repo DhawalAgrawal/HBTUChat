@@ -71,7 +71,7 @@ if (isset($_POST['email'])&& isset($_POST['code']))
 
 <html>
 <head>
-<title>CollegePark | Verification</title>
+<title>HBTU Chat | Verification</title>
 
 <link rel = "stylesheet" href = "../css/signupcss.css"/>
 <link href="https://fonts.googleapis.com/css?family=Hammersmith+One" rel="stylesheet">
@@ -81,7 +81,7 @@ if (isset($_POST['email'])&& isset($_POST['code']))
 <body>
 <div class="wrap">
 	<header id="header">
-		<h1><a href="../index.html" target="_BLANK">CollegePark</a></h1>
+		<h1><a href="../index.html" target="_BLANK">HBTU Chat</a></h1>
 		<navbar>
 			<ul>
 				<li><a href="#">About</a></li>
