@@ -66,7 +66,7 @@ header ('Location:php/verification.php');
 
 <html>
 <head>
-<title> Chatty.Website | Signup</title>
+<title> HBTU Chat | Signup</title>
 <link rel = "stylesheet" href = "css/signupcss.css"/>
 <link href="https://fonts.googleapis.com/css?family=Hammersmith+One" rel="stylesheet">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -77,7 +77,7 @@ header ('Location:php/verification.php');
 <body>
 <div class="wrap">
 	<header id="header">
-		<h1><a href="index.html" target="_BLANK">Chatty.Website</a></h1>
+		<h1><a href="index.html" target="_BLANK">HBTU Chat</a></h1>
 		<navbar>
 			<ul>
 				<li><a href="#">About</a></li>
