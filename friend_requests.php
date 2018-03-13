@@ -39,7 +39,7 @@ else if(!loggedin())
 <div class = "header" >
    <div id = "header1">
     <div id = "logo">
-    <h2><a href = "mainprofile.php"> Chatty.Website</a></h2>
+    <h2><a href = "mainprofile.php"> HBTU Chat</a></h2>
 	</div>
 <div id = "notifications">	
 <ul>
