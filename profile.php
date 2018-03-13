@@ -87,7 +87,7 @@ else if(!loggedin())
 
 <html>
 <head>
-<title> <?php echo $firstname ?> on CollegePark</title>
+<title> <?php echo $firstname ?> on HBTU Chat</title>
 <link rel = "stylesheet" href = "css/mainstyle.css"/>
 <link href="https://fonts.googleapis.com/css?family=Hammersmith+One" rel="stylesheet">
 <link rel="stylesheet" href="awesomefont/css/font-awesome.min.css">
@@ -101,7 +101,7 @@ else if(!loggedin())
 <div class = "header" >
    <div id = "header1">
     <div id = "logo">
-    <h2><a href = "mainprofile.php"> CollegePark</a></h2>
+    <h2><a href = "mainprofile.php"> HBTU Chat</a></h2>
 	</div>
 <div id = "notifications">	
 <ul>
