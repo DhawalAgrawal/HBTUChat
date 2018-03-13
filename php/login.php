@@ -42,7 +42,7 @@ else echo 'NO INPUT VALUES';
 
 <html>
 <head>
-<title>CollegePark | Login</title>
+<title>HBTU Chat | Login</title>
 
 <link rel = "stylesheet" href = "../css/signupcss.css"/>
 <link href="https://fonts.googleapis.com/css?family=Hammersmith+One" rel="stylesheet">
