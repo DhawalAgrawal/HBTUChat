@@ -176,7 +176,7 @@ else if(!loggedin())
 <div class = "header" >
    <div id = "header1">
     <div id = "logo">
-    <h2>Chatty.Website</h2>
+    <h2>HBTU Chat</h2>
 	</div>
 <div id = "notifications">	
 <ul>
